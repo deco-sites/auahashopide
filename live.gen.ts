@@ -209,8 +209,10 @@ const manifest = {
     "deco-sites/auahashopide/sections/Images/ShoppableBanner.tsx": $$$$$$$$4,
     "deco-sites/auahashopide/sections/Links/LinkTree.tsx": $$$$$$$$20,
     "deco-sites/auahashopide/sections/Links/Shortcuts.tsx": $$$$$$$$21,
-    "deco-sites/auahashopide/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$$$16,
-    "deco-sites/auahashopide/sections/Miscellaneous/CookieConsent.tsx": $$$$$$$$17,
+    "deco-sites/auahashopide/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$$$16,
+    "deco-sites/auahashopide/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$$$17,
     "deco-sites/auahashopide/sections/Newsletter/Newsletter.tsx": $$$$$$$$22,
     "deco-sites/auahashopide/sections/Product/ProductDetails.tsx": $$$$$$$$15,
     "deco-sites/auahashopide/sections/Product/ProductShelf.tsx": $$$$$$$$14,

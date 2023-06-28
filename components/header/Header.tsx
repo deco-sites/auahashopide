@@ -58,7 +58,7 @@ function Header({
   return (
     <>
       <header style={{ height: headerHeight }}>
-        <div class="bg-base-100 fixed w-full z-50">
+        <div class="bg-gradient-to-r from-orange-500 via-yellow-300 to-orange-500 bg-base-100 fixed w-full z-50">
           <Alert alerts={alerts} />
           <Navbar items={navItems} searchbar={searchbar} />
         </div>
